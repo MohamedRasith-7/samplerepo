@@ -1,0 +1,18 @@
+/* h1{
+  background-color: gray;
+  color: aqua;
+  border-radius: 300px;
+  font-size :50px;
+} */
+.container{
+  text-align: center;
+}
+.all{
+  display: flex;
+  flex-wrap: wrap;
+  gap:30px;
+}
+.product{
+  width: 500px;
+  height: 500px;
+}
