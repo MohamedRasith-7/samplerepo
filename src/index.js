@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 //import App from './App';
 import header from './Num';
+import Test from './Test/Test';
 
 
 
@@ -14,7 +15,7 @@ import header from './Num';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Number />
+  <Test/>
   
 );
 
