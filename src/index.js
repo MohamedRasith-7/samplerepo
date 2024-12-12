@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 //import App from './App';
 import header from './Num';
 //import Test from './Test/Test';
-import Product from './Product';
+import Summa from './Summa';
 
 
 
@@ -16,7 +16,7 @@ import Product from './Product';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Product/>
+  <Summa/>
   
 );
 
