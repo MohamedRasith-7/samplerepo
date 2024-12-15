@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-//import App from './App';
+
 import header from './Num';
-//import Test from './Test/Test';
-import Summa from './Summa';
+
+//import RegForm from './RegForm';
+import Product from './Product';
 
 
 
@@ -16,7 +17,7 @@ import Summa from './Summa';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Summa/>
+  <Product/>
   
 );
 
