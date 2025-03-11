@@ -1,10 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+//import App from './App';
+import Day1 from './Day1';
 
-import header from './Num';
 
-//import RegForm from './RegForm';
-import Product from './Product';
+
+
+//import Test from './project1';
+
+//import Test from './Test/Test';
+//import App from './App';
+
 
 
 
@@ -17,7 +23,7 @@ import Product from './Product';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Product/>
+  <Day1/>
   
 );
 
